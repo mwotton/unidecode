@@ -1,6 +1,6 @@
 name:                unidecode
-version:             0.1.0.1
-synopsis:            Haskell translation of http://search.cpan.org/~sburke/Text-Unidecode-1.30/lib/Text/Unidecode.pm
+version:             0.1.0.2
+synopsis:            Haskell binding of Unidecode
 description:         Please see README.md
 homepage:            https://github.com/mwotton/unidecode#readme
 license:             BSD3
