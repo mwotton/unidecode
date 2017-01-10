@@ -1,4 +1,6 @@
- unsigned int keylookup[8923] = {
+/* tables sourced from Unidecode.pm via munging by Cartazio Schonwald,
+   for which many thanks. */
+unsigned int keylookup[8923] = {
       9
     ,10
     ,32

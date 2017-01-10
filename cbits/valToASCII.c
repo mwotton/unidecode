@@ -1,5 +1,7 @@
+/* tables sourced from Unidecode.pm via munging by Cartazio Schonwald,
+   for which many thanks. */
 char *toASCIILut[8923]  = {
-    "\\t" 
+    "\\t"
     ,"\\n"
     ," "
     ,"!"
@@ -8921,5 +8923,5 @@ char *toASCIILut[8923]  = {
     ,"[?]"
     ,"{"
     ,"|"
-    ,"}" 
+    ,"}"
 } ;
