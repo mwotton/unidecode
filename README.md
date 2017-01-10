@@ -1,5 +1,5 @@
-Unidecode: for when you need a terrible transliteration
-=======================================================
+Unidecode: a transliterator of last resort
+==========================================
 
 So, for some reason you're stuck in the 90s and can't use UTF text. Punycode isn't cutting it?
 Fine: Unidecode will help you murder some carefully constructed text into something vaguely readable in good ol'

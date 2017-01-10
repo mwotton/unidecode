@@ -1,5 +1,5 @@
 name:                unidecode
-version:             0.1.0.2
+version:             0.1.0.3
 synopsis:            Haskell binding of Unidecode
 description:         Please see README.md
 homepage:            https://github.com/mwotton/unidecode#readme
