@@ -13,3 +13,6 @@ spec = describe "unidecode" $ do
 
   it "doesn't crash" $ property $
     \x ->  unidecode x == unidecode x
+
+  it "strips out non-ASCII text" $ do
+    concatMap unidecode "五十音順" `shouldBe` "" 
